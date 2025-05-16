@@ -1,7 +1,8 @@
-# Tutorial de como criar a aplicação react e configurar para o nginx
+# Tutorial de como criar a aplicação react js com vite e configurar para o nginx, da disciplina do professor Rhavy Maia.
 
 ## Etapa 1:
-- primeiro você tem que ter o nginx instalado em sua máquina, para isso execute o seguinte comando:
+- primeiro você tem que ter o nginx instalado em sua máquina,caso não tenha, execute o seguinte comando:
+
 ```
 sudo apt update
 sudo apt install nginx
@@ -22,6 +23,9 @@ npm install
 ```
 npm run build
 ```
+- Depois que executar, seu projeto irá aparecer a pasta dist:
+
+![imagemdist](image/telaincial.png)
 # Etapa 5: 
 - Copie os arquivos para a pasta do nginx:
 
