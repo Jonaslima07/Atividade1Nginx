@@ -73,4 +73,4 @@ http://localhost
 ```
 # Se tudo tiver correto, irá mostrar a aplicação assim por exemplo: 
 
-![appBrowser](images/original.png)
+![appBrowser](image/original.png)
