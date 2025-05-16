@@ -1,4 +1,4 @@
-# Tutorial de como criar a aplicação react js com vite e configurar para o nginx, da disciplina do professor Rhavy Maia.
+# Tutorial de como criar a aplicação react js com vite e configurar para o servidor nginx.
 
 ## Etapa 1:
 - primeiro você tem que ter o nginx instalado em sua máquina,caso não tenha, execute o seguinte comando:
